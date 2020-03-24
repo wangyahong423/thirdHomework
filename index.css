@@ -7,8 +7,11 @@ html, body {
 #chart {
   width: 70%;
   height: 70%;
-  /* margin: 0 auto; */
+  margin-top: -400px;
 }
-#excel{
+#excel{ 
   margin-left: 100px;
+}
+#hot-display-license-info{
+  display: none;
 }
