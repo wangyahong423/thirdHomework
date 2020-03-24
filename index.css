@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+#chart {
+  width: 70%;
+  height: 70%;
+  /* margin: 0 auto; */
+}
+#excel{
+  margin-left: 100px;
+}
